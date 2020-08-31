@@ -1,5 +1,5 @@
 # Nakaw-Load-Script-Generator
 
-`Nakaw`
+Script `Generator`
 
-<sup>Load</sub>
+Nakaw <sup>Load</sub>

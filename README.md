@@ -2,4 +2,4 @@
 
 `Nakaw`
 
-^Load^
+<sup>Load</sub>

@@ -2,4 +2,5 @@
 
 Script `Generator`
 
-Nakaw <sup>Load</sub>
+Nakaw <sup>Load</sup>
+Script <sub>Generator</sub>

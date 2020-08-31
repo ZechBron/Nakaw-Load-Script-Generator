@@ -1,5 +1,5 @@
 # Nakaw-Load-Script-Generator
 
-**Nakaw**
+`Nakaw`
 
-*Load*
+^Load^

@@ -2,7 +2,7 @@
 
 check=$(curl https://raw.githubusercontent.com/ZechBron/Nakaw-Load-Script-Generator/zNLSG/update)
 
-zChB="Version 0.5"
+zChB="Version 0.6"
 
 if [ "$check" = "$zChB" ]; then
    echo -e "\e[32mThe latest version of NLSG is $check. Do you want to update NLSG (y/n)?"

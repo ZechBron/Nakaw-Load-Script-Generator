@@ -1,4 +1,6 @@
-# Nakaw Load Script Generator aka NLSG
+# Nakaw Load Script Generator aka NLSG [![ZechBron](https://img.shields.io/badge/Author-Zech-red.svg)](https://github.com/ZechBron) [![Version](https://img.shields.io/badge/Version-0.5-blue.svg)](https://github.com/ZechBron)
+
+
 
 [![NLSG Wiki](https://github.com/ZechBron/Nakaw-Load-Script-Generator/blob/zNLSG/NLSG%20coded%20by%20zech.jpg)](https://github.com/ZechBron/Nakaw-Load-Script-Generator/wiki)
 
